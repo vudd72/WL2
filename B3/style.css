@@ -1,0 +1,6 @@
+.container .steps{
+    list-style: lower-roman ;
+}
+.container .advances{
+    list-style: square;
+}
